@@ -111,7 +111,7 @@ fun TaskItem(
                         ),
                         modifier = Modifier.height(24.dp)
                     )
-                </Row>
+                }
             }
 
             // Delete button
